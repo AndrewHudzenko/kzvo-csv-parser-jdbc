@@ -33,6 +33,3 @@ Below image with example:
 * **Data validation:** Basic checks for data length and format are implemented. You can extend these checks based on your specific requirements.
 * **Database storage:** Uses a mock database (replace with your preferred database integration mechanism).
 * **DAO layer** Uses JDBC to interact with DB.
-
-
-# kzvo-csv-parser-jdbc
