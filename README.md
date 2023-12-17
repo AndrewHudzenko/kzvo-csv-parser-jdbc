@@ -23,7 +23,7 @@ This project provides a Java application for importing product data from a tab-d
 3. **Run the application:** Execute the main method in the `CSVReaderApplication` class.
 4. **Provide the CSV file:** Pass the csv file as an argument for example through a Postman.
 Below image with example:
-![img.png](Screenshot_1.png)
+![Screenshot_1.png](Screenshot_1.png)
 5. **Monitor output:** Observe console logs and returning values for processing information and errors.
 
 ## Technical Details
